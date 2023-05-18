@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "../out/",
+    "module": "commonjs",
+    "target": "ES2019",
+    "esModuleInterop": true
+  },
+  "references": []
+}
