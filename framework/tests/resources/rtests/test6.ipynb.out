@@ -1,0 +1,2 @@
+[{"cell_id":0,"errors":[{"line":0,"label":"", "error_type":"ErrorType.CRITICAL", "message":"Cannot start from cell with no code"}],"path":[0]}]
+
