@@ -1,0 +1,1 @@
+[{"cell_id":3,"errors":[{"line":1,"label":"t", "error_type":"ErrorType.CRITICAL", "message":"Variable uses outdated values."}],"path":[0, 1, 2, 3]},{"cell_id":4,"errors":[{"line":1,"label":"x", "error_type":"ErrorType.CRITICAL", "message":"Variable uses outdated values."}],"path":[0, 1, 2, 3, 4]}]

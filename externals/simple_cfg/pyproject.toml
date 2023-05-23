@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+name = "simple_cfg_MDCS"
+version = "0.0.1"
+authors = [
+  { name="Data Labs", email="datalabscore@microsoft.com" },
+]
+description = "A CFG based on the Pyt CFG"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "gast == 0.5.0",
+]

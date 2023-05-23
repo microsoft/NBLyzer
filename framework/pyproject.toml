@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+name = "nblyzer_MDCS"
+version = "0.0.1"
+authors = [
+  { name="Pavle Subotic", email="pavlesubotic@microsoft.com" },
+  { name="Jana Kovacevic", email="pavlesubotic@microsoft.com" },
+  { name="Filip Drobnjakovic", email="drobnjakovicfilip@gmail.com" },
+]
+description = "Static analyzer from data science Notebooks"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "beniget == 0.4.1",
+    "gast == 0.5.0",
+]

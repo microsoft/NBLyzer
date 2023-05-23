@@ -1,0 +1,1 @@
+[{"cell_id":3,"errors":[{"line":2,"label":"X_local_test", "error_type":"ErrorType.TERMINAL", "message":"Training model with data leak."}],"path":[0, 1, 2, 3]},{"cell_id":3,"errors":[{"line":1,"label":"", "error_type":"ErrorType.TERMINAL", "message":"Idle cell."}],"path":[3]}]
